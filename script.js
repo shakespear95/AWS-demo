@@ -1,4 +1,4 @@
-const apiUrl = "https://your-api-gateway-url/analytics"; // Replace with your API Gateway URL
+const apiUrl = "https://kec5v0woe4.execute-api.us-east-1.amazonaws.com"; // Replace with your API Gateway URL
 
 // Function to send analytics data
 const sendAnalytics = async (eventData) => {
